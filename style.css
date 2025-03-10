@@ -57,7 +57,7 @@ body {
   max-width: 120px;
 }
 .container .disk .active {
-  animation: rotate 3s linear 0s infinite forwards;
+  animation: rotate 4s linear 3s infinite forwards;
 }
 
 .container .disk .cover {
