@@ -33,7 +33,7 @@ const songList = [
   },
   {
     name: "مهستی",
-    artist: "بیا بنویسم",
+    artist: "بیا بنویسیم",
     src: "Mahasti - Bia Benevisim [320]_1.m4a",
     cover: "photo_3_2025-03-10_23-54-55.jpg",
   },
